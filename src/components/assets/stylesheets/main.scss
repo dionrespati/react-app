@@ -1,0 +1,15 @@
+div.MuiTabs-flexContainer {
+
+  a {
+    color: #FFF;
+    font-weight: bold;
+    text-decoration: none;
+    display: inline-block;
+    &.active {
+      background-color: #0099FF;
+    }
+  }
+
+  background-color: #282c34;
+  padding: 0;
+}
